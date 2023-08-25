@@ -1,3 +1,6 @@
 
 hello this is my first git project.
 testing
+
+just typing
+
