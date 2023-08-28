@@ -1,8 +1,1 @@
-
-hello this is my first git project.
-testing
-
-just typing
-
-
-hii how r you.
+pull testing.
